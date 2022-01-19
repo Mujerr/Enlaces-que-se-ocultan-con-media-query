@@ -1,0 +1,23 @@
+a {
+    border-radius: 3px;
+    border-color: blueviolet;
+    border-style: solid;
+    display: inline;
+}
+@media (max-width: 1024px){
+    #cuatro{
+        visibility: hidden;
+    }
+}
+
+@media (max-width: 768px){
+    #tres{
+        visibility: hidden;
+    }
+}
+
+@media (max-width: 480px){
+    #dos{
+        visibility: hidden;
+    }
+}
